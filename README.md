@@ -1,2 +1,0 @@
-# algoritimo
-1semestre
